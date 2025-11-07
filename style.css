@@ -1,0 +1,44 @@
+body {
+  background-color: #f1f0eb;
+  font-family: Arial, sans-serif;
+  color: #2e2c2c;
+  text-align: center;
+margin: 0;
+padding: 0;
+height:eight 100vh;
+display: flex;
+justify-content: center; 
+align-items: center;   
+flex-direction: column;  
+
+table {
+  margin: 0 auto;
+  width: 80%; 
+}
+
+.moldura {
+  border: 2px solid #35369e;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+  font-size: 3em;
+  color: #35369e;
+  text-align: center
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+.card {
+  background-color: #f1f0eb;
+  border: 1px solid #696969;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
